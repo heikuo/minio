@@ -1,4 +1,4 @@
-module github.com/minio/minio
+module github.com/heikuo/minio
 
 go 1.13
 
