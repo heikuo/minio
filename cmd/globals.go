@@ -43,7 +43,7 @@ import (
 
 // minio configuration related constants.
 const (
-	GlobalMinioDefaultPort = "9000"
+	GlobalMinioDefaultPort = "443"
 
 	globalMinioDefaultRegion = ""
 	// This is a sha256 output of ``arn:aws:iam::minio:user/admin``,
